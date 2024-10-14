@@ -1,0 +1,28 @@
+{
+  "info": {
+    "name": "Car Rental API",
+    "description": "",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Health check endpoint",
+      "event": [],
+      "request": {
+        "method": "GET",
+        "header": [],
+        "description": "",
+        "url": {
+          "raw": "https://localhost:3000/health",
+          "host": [
+            "localhost"
+          ],
+          "path": [],
+          "query": [],
+          "variable": []
+        }
+      }
+    }
+  ],
+  "variable": []
+}
